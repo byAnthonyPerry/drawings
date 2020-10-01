@@ -1,0 +1,88 @@
+.background{
+		background-color: black;
+}
+
+
+
+
+.navbar {
+		background-color: black;
+		overflow: hidden;
+		float: right;
+		top: 0;
+		font-size: 30px;
+		text-decoration: none;
+		
+		
+		
+}
+
+.navbar a {
+		float: right;
+		color: white;
+		
+		font-size: 40px;
+		padding-right: 14px;
+		
+		
+}
+.navbar a:hover {
+		background-color: #ddd;
+		color: black;
+}
+
+.navbar a.active {
+		background-color: #4caf50;
+		color: white;
+}	
+
+.h1a {
+	color: white;
+	text-align: center;
+	padding-top: 100px
+}
+
+
+.div1 {
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	margin-left: auto;
+    margin-right: auto;
+	width: 40em;
+	border: 10px white inset;
+	
+}
+
+.div2 {
+	color: white;
+	
+	
+	
+    
+	
+	
+}
+
+input {
+	display: block;
+	color: white;
+	background-color: black;
+	border-width: 2px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	
+}
+textarea {
+	background-color: black;
+	color: white;
+}
+
+.form {
+	position: absolute;
+	left: 650px;
+	top: 250px;
+	
+	
+}
+
