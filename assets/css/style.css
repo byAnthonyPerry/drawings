@@ -87,8 +87,8 @@ textarea {
 }
 
 p {
-	margin-left: auto;
-	margin-right: auto;
-	width: 8em;
+	margin-left: 615;
+	margin-right: 100;
+	padding-top: 55px
 	font-size: 20px;
 }
