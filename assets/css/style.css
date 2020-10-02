@@ -82,13 +82,27 @@ textarea {
 	position: absolute;
 	left: 650px;
 	top: 250px;
-	
+	color: black;
 	
 }
 
 p {
 	margin-left: 615;
 	margin-right: 100;
-	padding-top: 55px
 	font-size: 20px;
+	padding-top: 55px;
+	color: white;
+	
 }
+
+.drawing {
+	float: left;
+	padding-right: 30px;
+	padding-bottom: 30px;
+	height: 250px;
+	width: 250px;
+	border-radius: 50%;
+}
+
+
+
